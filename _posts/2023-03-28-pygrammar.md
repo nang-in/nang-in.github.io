@@ -8,13 +8,13 @@ share-img: /assets/img/b_sub.jpg
 tags: [study, python]
 ---
 
-#<파이썬 자료형>
+# <파이썬 자료형>
 
-##-숫자형
+## -숫자형
 
 숫자형 - int(정수형),float(실수형),complex(복소수)가 있다.
 
-###integer - 정수형
+### integer - 정수형
 
 ~~~python
 a = -100
@@ -26,7 +26,7 @@ c = 100
 arbitrary-precision로 가용 메모리 사용 -> byte 늘림
 (단, pydata stack을 활용하는 numpy|pandas 패키지는 오버플로우 발생 고려)
 
-###float - 실수형
+### float - 실수형
 
 ~~~python
 import math
