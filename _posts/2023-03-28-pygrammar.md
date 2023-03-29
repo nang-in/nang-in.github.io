@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "python grammar"
-subtitle: this is my first github challenge
+subtitle: this is note about python basic grammar
 cover-img: /assets/img/ptrhon.png
 thumbnail-img: /assets/img/my room.jpg
 share-img: /assets/img/ptrhon.png
