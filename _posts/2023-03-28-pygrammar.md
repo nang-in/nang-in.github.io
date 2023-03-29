@@ -2,9 +2,9 @@
 layout: post
 title: "python grammar"
 subtitle: this is my first github challenge
-cover-img: /assets/img/b_sub.jpg
+cover-img: /assets/img/ptrhon.png
 thumbnail-img: /assets/img/my room.jpg
-share-img: /assets/img/b_sub.jpg
+share-img: /assets/img/ptrhon.png
 tags: [study, python]
 ---
 
