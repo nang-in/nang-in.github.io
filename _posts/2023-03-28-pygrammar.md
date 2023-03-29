@@ -8,7 +8,7 @@ share-img: /assets/img/ptrhon.png
 tags: [study, python]
 ---
 
-# <파이썬 자료형>
+# 파이썬 자료형
 
 ## -숫자형
 
