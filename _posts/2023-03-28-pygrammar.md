@@ -23,7 +23,7 @@ a = -100
 b = 0
 c = 100
 ~~~
-
+{: .box-note}
 #### 정수형의 크기는 컴파일러가 아닌 컴퓨터 메로리로 제한된다. (파이썬 3)
 #### arbitrary-precision로 가용 메모리 사용 -> byte 늘림
 #### (단, pydata stack을 활용하는 numpy|pandas 패키지는 오버플로우 발생 고려)
